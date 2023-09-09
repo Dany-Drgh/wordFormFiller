@@ -1,2 +1,7 @@
 .docx
 .xlsx
+# Ignore .docx files
+*.docx
+
+# Ignore .xlsx files
+*.xlsx
